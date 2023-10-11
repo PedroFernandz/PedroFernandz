@@ -16,6 +16,4 @@ Pedro Fernandez. </a></h1>
 
 - 📫 How to reach me **pedro.afg89@gmail.com**
 
-- 📄 Know about my experiences <a href="https://www.linkedin.com/in/pedro-antonio-fernandez-garcia-70b231190/" target="blank">Resume</a>
-<br/>
 
